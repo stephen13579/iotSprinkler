@@ -22,4 +22,4 @@ graph TD
     H-->Z(Schedule)
 ```
 Will look at using MicroPython for software. Will look into hardware limitations.
-https://github.com/micropython/micropython/tree/master/ports/nrf/boards/nrf52840-mdk-usb-dongle![image](https://user-images.githubusercontent.com/76409889/180120967-23f6c3e7-aafd-4211-9ec5-0cae019adca7.png)
+https://github.com/micropython/micropython/tree/master/ports/nrf/boards/nrf52840-mdk-usb-dongle
