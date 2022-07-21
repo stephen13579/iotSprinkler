@@ -4,6 +4,7 @@ Microcontroller based sprinkler controller with HTTP server interface. Will allo
 
 Planning on using the Nordic nrf52840 (has built in WiFi and bluetooth capability)
 
+## Software
 Top Level Flowchart on planned pages (starting simple):
 ```mermaid
 graph TD
@@ -21,7 +22,7 @@ graph TD
     H-->L(Settings)
     H-->Z(Schedule)
 ```
-## Software
----
 Will look at using MicroPython for software. Will look into hardware limitations.
 https://github.com/micropython/micropython/tree/master/ports/nrf/boards/nrf52840-mdk-usb-dongle
+
+
