@@ -3,7 +3,7 @@ Microcontroller based sprinkler controller with HTTP server interface
 
 ```mermaid
 graph TD
-    A(iotSprinkler uC) --> |HTTP Server| B(Authintication Page)
+    A(iotSprinkler uC) --> |HTTP Server| B(Authentication Page)
     B -->|POST| C(Login Credentials)
     C -->D{Is Valid Credentials?}
     D -->|Yes| E[Default Page]
