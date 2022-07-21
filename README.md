@@ -1,5 +1,5 @@
-# iotSprinkler
-Microcontroller based sprinkler controller with HTTP server interface
+## iotSprinkler
+#Microcontroller based sprinkler controller with HTTP server interface
 
 ```mermaid
 graph TD
