@@ -1,7 +1,7 @@
 # iotSprinkler
 Microcontroller based sprinkler controller with HTTP server interface
 
-'''mermaid
+```mermaid
 graph TD
     A(iotSprinkler uC) --> |HTTP Server| B(Authintication Page)
     B -->|POST| C(Login Credentials)
@@ -16,4 +16,4 @@ graph TD
     G-->K(Schedule)
     H-->L(Settings)
     H-->Z(Schedule)
-'''
+```
